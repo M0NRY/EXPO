@@ -3,7 +3,7 @@
 ![](https://images.cooltext.com/5620370.png)
 
 
-##### -También conocido como zumbador es un pequeño transductor capaz de convertir la energía eléctrica en sonido. Para hacerlos funcionar solo basta conectar el positivo con el + y la tierra o negativo con el – de una batería o cualquier fuente de corriente directa.
+#### -También conocido como zumbador es un pequeño transductor capaz de convertir la energía eléctrica en sonido. Para hacerlos funcionar solo basta conectar el positivo con el + y la tierra o negativo con el – de una batería o cualquier fuente de corriente directa.
 
 -Están construidos con dos pequeñas placas una metálica y una cerámica, las cuales aprovechan este efecto, pero solo generan un click ya que los materiales cambiaron de forma, pero no regresan a su estado natural hasta que se les quita el voltaje.
 
