@@ -10,8 +10,7 @@
 Para que se pueda emitir un sonido continuo las placas necesitan vibrar constantemente, para eso se instala un oscilador que hace que los materiales cambien de estado una y otra vez, y así puedan cambiar miles de veces para poder alcanzar un audio perceptible.
 ![](http://ceca.uaeh.edu.mx/informatica/oas_final/OA4/buzzer.png) 
 
-
 ### TIPOS DE BUZZER
-| **SIN OCILADOR** 	| Requieren un voltaje y un ocilador externo para funcionar 	|
+| **SIN OCILADOR** 	| _Requieren un voltaje y un ocilador externo para funcionar_ 	|
 |---	|:---:	|
-| **CON OCILADOR** 	| Cuenta con un ocilador interno, lo que facilita el funcionamiento<br>ya que solo es cuestion de aplicar voltaje 	|
+| **CON OCILADOR** 	| _Cuenta con un ocilador interno, lo que facilita el funcionamiento<br>ya que solo es cuestion de aplicar voltaje_ 	|
